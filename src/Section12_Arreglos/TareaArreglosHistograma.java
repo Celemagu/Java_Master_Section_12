@@ -7,6 +7,7 @@ public class TareaArreglosHistograma {
 	public static void main(String[] args) {
 		int [] a  = {3,3,4,5,6,4,3,2,5,6,5,4};
 		int [] cont  = new int [12] ;
+		
 		String [] contador= new String [12];
 		Arrays.sort(a);
 		
